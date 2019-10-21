@@ -18,6 +18,7 @@ int main (){
     printf("*uesaka_p..%d\n", *uesaka_p);
 
     *uesaka_p = 13;
+    printf("substitute 13 for *uesaka_p\n");
     printf("uesaka..%d\n", uesaka);
 
     return 0;
